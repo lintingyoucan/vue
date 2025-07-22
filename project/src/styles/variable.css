@@ -1,0 +1,18 @@
+:root {
+    /* 左侧菜单宽度 */
+    --base-menu-width: 260px;
+
+    /* 左侧logo高度 */
+    --base-menu-logo-height: 50px;
+
+    /* 左侧logo标题文字大小 */
+    --base-logo-title-font-size: 20px;
+
+    /* 左侧最小宽度 */
+    --base-menu-min-width: 50px;
+
+    /* 顶部导航高度 */
+    --base-tabbar-height: 100px;
+    
+
+}
